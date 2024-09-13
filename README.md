@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+    👋 Hi, I’m @coultonsm
+    👀 I’m interested in Computer Science and IT, currently pursuing a Degree in Computer Science @ Clark University
+    🌱 I’m currently learning Python and Java
+    📫 How to reach me : LinkedIn: https://www.linkedin.com/in/coulton-manning-133352290/
+
+
 <!--
 **coultonsm/coultonsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
